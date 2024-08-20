@@ -1,5 +1,3 @@
-package Database;
-
 import java.sql.Connection;
 
 public class Main {
